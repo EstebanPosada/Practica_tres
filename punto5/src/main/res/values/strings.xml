@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">punto5</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Formulary</string>
+    <string name="name">Name: </string>
+    <string name="lname">Last Name: </string>
+    <string name="id">Identification: </string>
+    <string name="sex">Sex: </string>
+    <string name="bdata">Birthday: </string>
+    <string name="bplace">Born place: </string>
+    <string name="hobby">Hobbies: </string>
+
+    <string name="edname">Edit Name</string>
+    <string name="edlname">Edit Last Name</string>
+    <string name="edid">Edit CC</string>
+    <string name="fem">Female</string>
+    <string name="masc">Male</string>
+
+    <string name="hob1">Reading</string>
+    <string name="hob2">Programming</string>
+    <string name="hob3">Soccer</string>
+    <string name="hob4">Videogames</string>
+    <string name="hob5">Parkour</string>
+    <string name="hob6">Paintball</string>
+    <string name="show">Show info</string>
+
+    <string name="namesh">Name: </string>
+    <string name="lnamesh">Last name: </string>
+    <string name="idsh">Identification: </string>
+    <string name="sexsh">Sex: </string>
+    <string name="bdatash">Birthday: </string>
+    <string name="bplacesh">Born place: </string>
+    <string name="hobbysh">Hobbies: </string>
+    
+
+</resources>

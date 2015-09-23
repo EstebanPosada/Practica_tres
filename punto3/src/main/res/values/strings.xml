@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">punto3</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="tituloes">Nota final del curso</string>
+    <string name="quizes">Quices 15%</string>
+    <string name="expoes">Exposiciones 10%</string>
+    <string name="plabses">Prácticas de lab 40%</string>
+    <string name="pfinales">Proyecto Final 35%</string>
+    <string name="notaes">Digitar nota</string>
+    <string name="reses">Resultado</string>
+    <string name="calces">Calcular</string>
+
+    <string name="titulo">Final course note</string>
+    <string name="quiz">Quiz 15%</string>
+    <string name="expo">Expositions 10%</string>
+    <string name="plabs">Practice labs 40%</string>
+    <string name="pfinal">Final proyect 35%</string>
+    <string name="nota">Write note</string>
+    <string name="res">Result</string>
+    <string name="calc">Calculate</string>
+    <string name="digit">Write number</string>
+</resources>
