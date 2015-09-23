@@ -122,7 +122,7 @@ public class punto5 extends AppCompatActivity {
                 }
 
 
-                date = String.valueOf(bdate.getDayOfMonth()+"/"+bdate.getMonth()+"/"+bdate.getYear());
+                date = String.valueOf(bdate.getDayOfMonth()+"/"+(bdate.getMonth()+1)+"/"+bdate.getYear());
                 city = String.valueOf(bcity.getSelectedItem());
 
                 hobb="Hobbies: ";
